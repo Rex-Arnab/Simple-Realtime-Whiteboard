@@ -1,0 +1,11 @@
+// basic express.js gitignore
+node_modules
+npm-debug.log
+.DS_Store
+.env
+yarn-error.log
+*.log
+*.lock
+package-lock.json
+yarn.lock
+.vscode/**
